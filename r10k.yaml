@@ -4,7 +4,7 @@ sources:
     remote: 'https://github.com/penguinspiral/puppet-control-repo.git'
 
     # Install directory
-    basedir: '/etc/puppet/code/environments'
+    basedir: '/etc/puppetlabs/code/environments'
 
     # Omit Gitflow 'develop' branch
     ignore_branch_prefixes:
