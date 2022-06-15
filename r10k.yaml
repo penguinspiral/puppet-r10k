@@ -12,4 +12,4 @@ sources:
 
 forge:
   # IPv4 & IPv6 domain
-  baseurl: 'https://forgeapi-cdn.puppet.com'
+  baseurl: 'https://forgeapi.puppet.com'
